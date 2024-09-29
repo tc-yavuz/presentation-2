@@ -15,13 +15,17 @@ Passionné par la musique et la découverte des genres de manière interactive, 
 
 ## Ambiance
 ### Planche d'ambiances visuelles
-Exemples de projets similaires
+<img src="https://lh4.googleusercontent.com/nFn-T_Yr9ymG_vMq0TOesnAoKBoVv5d2FS_fjJEsLjKl8TUPM9EEY0JVFB3aG_NJcxDldrwbguIYA661Uq-8OFIuRjP9yejWl0Joi0G0AAfX0LH4__oFTjmcXWPK6pXTQJpJT9jQKaG4"></img>
 
 ### Planche d'ambiances sonores
-Planche d'ambiance
+
+- [Jazz - Trompette](https://www.youtube.com/watch?v=US2uDbkiMPQ)
+- [Rock - Guitare Électrique](https://www.youtube.com/watch?v=LTeW10EefKI)
+- [Classique - Piano](https://www.youtube.com/watch?v=xejeEtdfgZY)
+
 
 ### Références artistiques
-Duetti: Mobili Musicali
+Duetti: Mobili Musicali, Parcours Musical Immersif
 
 ## Technologies
 ### Support médiatique
