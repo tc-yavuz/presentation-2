@@ -1,7 +1,7 @@
 # BuddyBand
 ## Idée
 ### Concept
-Quatre personnes sont assignées à différents instruments représentant un genre musical (jazz, rock, etc.). Ensemble, elles forment un groupe et créent de la musique.
+3 à 6 personnes sont assignées à différents instruments représentant un genre musical (jazz, rock, etc.). Ensemble, elles forment un groupe et créent de la musique.
 
 L’environnement est équipé de lumières LED qui changent de couleur en fonction du genre musical joué. Au centre du groupe se trouve une roulette interactive. En la tournant, les participants peuvent changer de genre musical, ce qui entraîne non seulement un changement des instruments, mais également une modification des couleurs et des ambiances lumineuses associées à chaque genre.
 
