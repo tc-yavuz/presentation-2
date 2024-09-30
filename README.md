@@ -12,6 +12,22 @@ L'objectif est de faire découvrir aux participants des genres musicaux qu'ils n
 Passionné par la musique et la découverte des genres de manière interactive, j’ai été inspiré par Duetti: Mobili musicali pour créer une expérience immersive, combinant plaisir musical et technologie.
 
 ## Scénario
+````mermaid
+flowchart TD
+    A[Interacteur] -->|Joue les instruments| B{Sons_musique}
+    B --> C[Effet]
+    C --> D[Lumière]
+    C --> E[Sons]
+    C --> F[Vidéos]
+    A --> G[Change Genre Musique]
+    G --> |Joue les instruments|B
+    D --> H{Fin Interaction}
+    E --> H
+    F --> H
+    H --> |Oui|I[Veille]
+    H --> |Non|B
+    H --> |Change|G
+````
 
 ## Ambiance
 ### Planche d'ambiances visuelles
