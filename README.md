@@ -1,4 +1,4 @@
-# BuddyBand
+# Music Band
 ## Idée
 ### Concept
 3 à 6 personnes sont assignées à différents instruments représentant un genre musical (jazz, rock, etc.). Ensemble, elles forment un groupe et créent de la musique.
