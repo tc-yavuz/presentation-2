@@ -1,33 +1,42 @@
 # Cercle Musical
 ## Idée
 ### Concept
-3 à 6 personnes sont assignées à différents instruments représentant un genre musical (jazz, rock, etc.). Ensemble, elles forment un groupe et créent de la musique.
-
-L’environnement est équipé de lumières LED qui changent de couleur en fonction du genre musical joué. Au centre du groupe se trouve une roulette interactive. En la tournant, les participants peuvent changer de genre musical, ce qui entraîne non seulement un changement des instruments, mais également une modification des couleurs et des ambiances lumineuses associées à chaque genre.
+Mon concept consiste en un système de lasers projetés du sol qui illuminent le plafond avec des couleurs variées. Lorsqu'une personne touche un laser, cela déclenche une note de musique, créant une expérience interactive et sonore. Ce dispositif mêle art visuel et sonorité, offrant une façon innovante de jouer avec la lumière et le son, idéal pour des événements festifs, des installations artistiques ou des espaces de loisirs.
 
 ### Objectifs
-L'objectif est de faire découvrir aux participants des genres musicaux qu'ils n'écoutent pas souvent, tout en leur offrant un moment amusant et immersif. Grâce à un système interactif avec musique, lumière et instruments, ils pourront explorer différents styles et s'amuser à jouer ensemble. L'expérience cherche à éveiller la curiosité musicale et à offrir un plaisir simple autour de la diversité musicale.
-
+L'objectif est de fusionner l'interaction et la sonorité en créant une expérience où les participants deviennent des acteurs de leur environnement. Grâce à des lasers colorés projetés au sol, chaque geste déclenche une note musicale, transformant chaque interaction en une véritable composition vivante.
 ### Motivations
 Passionné par la musique et la découverte des genres de manière interactive, j’ai été inspiré par Duetti: Mobili musicali pour créer une expérience immersive, combinant plaisir musical et technologie.
 
 ## Scénario
 ````mermaid
 flowchart TD
-    A[Interacteur] -->|Joue les instruments| B{Sons_musique}
+    A[Interacteur] -->|met la main sur le laser| B{Sons_musique}
     B --> C[Effet]
     C --> D[Lumière]
     C --> E[Sons]
-    C --> F[Vidéos]
-    A --> G[Change Genre Musique]
-    G --> |Joue les instruments|B
     D --> H{Fin Interaction}
     E --> H
-    F --> H
     H --> |Oui|I[Veille]
     H --> |Non|B
-    H --> |Change|G
 ````
+En mode veille les lasers sont toujours actif, il n'y a juste pas de sons
+
+## Scénarimage
+#### Visualisation des séquences
+Projection des lasers
+
+![scena](media/scénarimage.png)
+
+## Synoptique
+````mermaid
+flowchart TD
+    A[Ordinateur] --> B[Logiciel de son]
+    B --> C[Carte de son] --> D[Haut-parleurs]
+    A --> E[arduino] --> F[capteurs de lumières]
+````
+
+## Plantation
 
 ## Ambiance
 ### Planche d'ambiances visuelles
