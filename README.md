@@ -37,6 +37,7 @@ flowchart TD
 ````
 
 ## Plantation
+![plantation](media/plantation.jpg)
 
 ## Ambiance
 ### Planche d'ambiances visuelles
