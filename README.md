@@ -22,6 +22,20 @@ flowchart TD
 ````
 En mode veille les lasers sont toujours actif, il n'y a juste pas de sons
 
+## Ambiance
+### Planche d'ambiances visuelles
+<img src="https://lh4.googleusercontent.com/nFn-T_Yr9ymG_vMq0TOesnAoKBoVv5d2FS_fjJEsLjKl8TUPM9EEY0JVFB3aG_NJcxDldrwbguIYA661Uq-8OFIuRjP9yejWl0Joi0G0AAfX0LH4__oFTjmcXWPK6pXTQJpJT9jQKaG4"></img>
+
+### Planche d'ambiances sonores
+
+- [Jazz - Trompette](https://www.youtube.com/watch?v=US2uDbkiMPQ)
+- [Rock - Guitare Électrique](https://www.youtube.com/watch?v=LTeW10EefKI)
+- [Classique - Piano](https://www.youtube.com/watch?v=xejeEtdfgZY)
+
+
+### Références artistiques
+Duetti: Mobili Musicali, Parcours Musical Immersif
+
 ## Scénarimage
 #### Visualisation des séquences
 Projection des lasers
@@ -38,20 +52,6 @@ flowchart TD
 
 ## Plantation
 ![plantation](media/plantation.jpg)
-
-## Ambiance
-### Planche d'ambiances visuelles
-<img src="https://lh4.googleusercontent.com/nFn-T_Yr9ymG_vMq0TOesnAoKBoVv5d2FS_fjJEsLjKl8TUPM9EEY0JVFB3aG_NJcxDldrwbguIYA661Uq-8OFIuRjP9yejWl0Joi0G0AAfX0LH4__oFTjmcXWPK6pXTQJpJT9jQKaG4"></img>
-
-### Planche d'ambiances sonores
-
-- [Jazz - Trompette](https://www.youtube.com/watch?v=US2uDbkiMPQ)
-- [Rock - Guitare Électrique](https://www.youtube.com/watch?v=LTeW10EefKI)
-- [Classique - Piano](https://www.youtube.com/watch?v=xejeEtdfgZY)
-
-
-### Références artistiques
-Duetti: Mobili Musicali, Parcours Musical Immersif
 
 ## Technologies
 ### Support médiatique
