@@ -5,6 +5,7 @@ Mon concept consiste en un système de lasers projetés du sol qui illuminent le
 
 ### Objectifs
 L'objectif est de fusionner l'interaction et la sonorité en créant une expérience où les participants deviennent des acteurs de leur environnement. Grâce à des lasers colorés projetés au sol, chaque geste déclenche une note musicale, transformant chaque interaction en une véritable composition vivante.
+
 ### Motivations
 Passionné par la musique et la découverte des genres de manière interactive, j’ai été inspiré par Duetti: Mobili musicali pour créer une expérience immersive, combinant plaisir musical et technologie.
 
