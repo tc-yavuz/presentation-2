@@ -14,10 +14,8 @@ Passionné par la musique et la découverte des genres de manière interactive, 
 flowchart TD
     A[Interacteur] -->|met la main sur le laser| B{Sons_musique}
     B --> C[Effet]
-    C --> D[Lumière]
     C --> E[Sons]
-    D --> H{Fin Interaction}
-    E --> H
+    E --> H{Fin Interaction}
     H --> |Oui|I[Veille]
     H --> |Non|B
 ````
