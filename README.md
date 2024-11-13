@@ -24,7 +24,7 @@ En mode veille les lasers sont toujours actif, il n'y a juste pas de sons
 
 ## Ambiance
 ### Planche d'ambiances visuelles
-<img src="https://lh4.googleusercontent.com/nFn-T_Yr9ymG_vMq0TOesnAoKBoVv5d2FS_fjJEsLjKl8TUPM9EEY0JVFB3aG_NJcxDldrwbguIYA661Uq-8OFIuRjP9yejWl0Joi0G0AAfX0LH4__oFTjmcXWPK6pXTQJpJT9jQKaG4"></img>
+![scena](media/laser.jpg)
 
 ### Planche d'ambiances sonores
 
