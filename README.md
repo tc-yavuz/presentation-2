@@ -46,26 +46,36 @@ Projection des lasers
 ## Synoptique
 ````mermaid
 flowchart TD
-    A[Ordinateur] --> B[Logiciel de son]
-    B --> C[Carte de son] --> D[Haut-parleurs]
-    A --> E[arduino] --> F[capteurs de lumières]
+    A[Ordinateur] -->|Contrôle| B[Logiciel de son (Reaper, Max)]
+    B -->|Envoie audio| C[Carte de son]
+    C -->|Sortie audio| D[Haut-parleurs]
+    
+    A -->|Contrôle| E[Arduino]
+    E -->|Capteurs| F[Capteurs de lumière (Laser)]
+    F -->|Détecte interaction| G[Effets sonores et visuels]
+    G --> H[LEDs (Lumières projetées)]
 ````
 
 ## Plantation
-![plantation](media/plantation.jpg)
+![plantation](media/plantation-v2.jpg)
 
 ## Technologies
 ### Support médiatique
 - Audio
 
 ### Matériel
-- Capteur/Détecteur
-- Clavier Midi
+- Capteur de lumières
+- Carte de son
+- Ordinateur
 - Lumières LED
 - Haut-Parleurs
+- Cables usb
+- Cables xlr
 
 ### Logiciels
 - Arduino
 - Touch Designer
 - Reaper
 - Max
+- Qlc+
+- plugdata
