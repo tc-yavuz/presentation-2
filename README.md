@@ -1,4 +1,4 @@
-# Cercle Musical
+# MéloLaser
 ## Idée
 ### Concept
 Mon concept consiste en un système de lasers projetés du sol qui illuminent le plafond avec des couleurs variées. Lorsqu'une personne touche un laser, cela déclenche une note de musique, créant une expérience interactive et sonore. Ce dispositif mêle art visuel et sonorité, offrant une façon innovante de jouer avec la lumière et le son, idéal pour des événements festifs, des installations artistiques ou des espaces de loisirs.
